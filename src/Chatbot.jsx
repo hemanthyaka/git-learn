@@ -14,6 +14,7 @@ const ChatBot = () => {
     { id: 8, sender: 'user', text: 'I need help with my account.', time: '14:08 - 24 Aug 2024' },
     { id: 9, sender: 'bot', text: 'I need help with my account.', time: '14:09 - 24 Aug 2024' },
     { id: 10, sender: 'user', text: 'I need help with my account.', time: '14:10 - 24 Aug 2024' },
+    { id: 11, sender: 'user', text: 'I need help with my account.', time: '14:10 - 24 Aug 2024' },
   ]);
   const [newMessage, setNewMessage] = useState('');
   // eslint-disable-next-line no-unused-vars
